@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 100vh;
+  display: inline-block;
+}
+
+.Task_card{
+  left:60%;
+  margin-top: 20%;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+}
